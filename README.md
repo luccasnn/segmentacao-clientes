@@ -1,4 +1,4 @@
-# 🛍️ Segmentação de Clientes — K-Means
+# Segmentação de Clientes — K-Means
 
 Agrupamento de clientes de um shopping em 5 perfis distintos usando K-Means, com base em renda anual e score de gasto. Projeto com aplicação direta em estratégias de marketing e fidelização.
 
